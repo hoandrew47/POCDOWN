@@ -10,6 +10,7 @@ This document provides an overview of the Proof of Concept (PoC) for a new featu
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Feedback](#feedback)
+- [Notes](#notes)
 - [Contact](#contact)
 
 ## Feature Overview
@@ -41,6 +42,13 @@ I was given between 3-4 hours to complete. I took that time and this is as far a
 
 Happy to finish further if required. 
 
+## Notes
+
+I have taken a preference to programatic UI rather than using xibs or storyboards. Whilst slower to set up it scales much better
+
+I didnt take too much conisderation around routing in this POC and the routing is not scalable in this code. 
+
+I went with MVVM as a design pattern to try and make a clear seperation between view logic and buisness logic
 
 ## Contact
 
