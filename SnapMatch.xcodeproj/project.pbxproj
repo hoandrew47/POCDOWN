@@ -51,6 +51,7 @@
 		4145A68C2AF123F7006960D9 /* search.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = search.json; sourceTree = "<group>"; };
 		4145A68E2AF12421006960D9 /* Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animations.swift; sourceTree = "<group>"; };
 		4145A6902AF127A3006960D9 /* CGRect + Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGRect + Extensions.swift"; sourceTree = "<group>"; };
+		4145A6922AF1338B006960D9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		41F06CF22AF0437F00E84E77 /* NewMain.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = NewMain.storyboard; sourceTree = "<group>"; };
 		41F06CF42AF0464A00E84E77 /* HomeTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTabBarController.swift; sourceTree = "<group>"; };
 		41F06CF72AF048CF00E84E77 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
@@ -259,6 +260,7 @@
 		754BC51D2ADF53AE00162297 = {
 			isa = PBXGroup;
 			children = (
+				4145A6922AF1338B006960D9 /* README.md */,
 				754BC5282ADF53AE00162297 /* SnapMatch */,
 				754BC5272ADF53AE00162297 /* Products */,
 			);
